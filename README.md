@@ -1,8 +1,14 @@
-# DRISHTI · frontend prototype
+# 👁️ Project DRISHTI
+**SIH Problem Statement:** SIH26121 - [Insert Full Problem Statement Name Here]
+**Organization:** [Insert Ministry/Organization Name Here]
 
-# BACKEND SOURCE CODE IS IN A SEPARATE PRIVATE REPOSITORY THIS IS JUST A DEMO REPO THAT PORTED FROM THE OG PRIVATE REPO
+🎥 **[Watch the 3-Minute Interactive Demo Video Here](https://youtu.be/d-A6m6y8jv4)**
 
-Clickable PORTED PUBLIC prototype for SIH26121 on representative (synthetic) Upper Assam data. Frontend only: Next.js, IBM Carbon (g100 dark / white), three.js, framer-motion. No backend. All data is in `lib/data.ts`, shaped like the planned API.
+## 📌 Overview
+Project DRISHTI is a comprehensive, interactive platform designed for [insert 1-sentence description of the core problem you solve]. 
+
+*Note: This repository serves as our public-facing, interactive demo prototype for evaluation. To protect our proprietary logic and core architecture during the screening phase, our fully developed backend is currently maintained in a separate private repository. For a seamless review experience today, all APIs and data streams (using representative Upper Assam data) have been mocked in `lib/data.ts`.*
+
 ## Run (use the production build for recording; it is smoother than dev)
 
 ```bash

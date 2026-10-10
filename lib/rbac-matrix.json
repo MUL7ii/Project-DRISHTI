@@ -1,0 +1,11 @@
+{
+  "page.planning": { "view": ["DE", "PE", "KS"] },
+  "page.live": { "view": ["DE", "PE", "CON"] },
+  "page.search": { "view": ["DE", "PE", "KS"] },
+  "page.ask": { "view": ["DE", "PE", "KS"] },
+  "page.admin": { "view": ["KS"] },
+  "document": { "view": ["DE", "PE", "KS"], "download": ["DE", "PE", "KS"], "edit": ["KS"] },
+  "alert": { "acknowledge": ["DE"], "annotate": ["DE"], "escalate": ["DE"], "view": ["DE", "PE", "CON"] },
+  "review": { "export": ["PE"], "approve": ["KS"], "edit": ["PE"] },
+  "extraction": { "approve": ["KS"] }
+}
